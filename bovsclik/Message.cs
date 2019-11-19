@@ -3,16 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using OpenTK.Input;
-using OpenTK.Graphics;
 
 namespace bovsclik
 {
-    class Program
+    class Message : View.IScreenPrinting
     {
-        static void Main(string[] args)
+        public TextRow[] GetAllText()
         {
-            Main main = new Main();
+            throw new NotImplementedException();
         }
     }
 }
