@@ -1,0 +1,1 @@
+Trying to make something a bit bigger than my earlier projects. I don't really play roguelikes, so it will -- in all honesty -- be a horrible experience for anyone that tries to _play_  it. It does try to be somewhat thought through though, so one should be able to make some kind of sense of the code.
